@@ -6,9 +6,7 @@ const Home = () => {
 return (
     <>
         <Layout>
-        <div className='text-xl bg-red-100'>
-        Hola mundo bebé
-        </div>
+        <h1>Magic The Variant</h1>
         </Layout>
     </>
     )
